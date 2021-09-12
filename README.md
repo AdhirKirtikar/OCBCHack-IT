@@ -23,7 +23,7 @@ Assignment for OCBCHack-IT - Data &amp; AI Track
 # Implementation
 ● The analysis and models are available in the "US Traffic 2015 Analysis.ipynb" Jupyter notebook.
 
-● Clone the repository in your local folder and install dependencies numpy, pandas, matplotlib & statsmodels.tsa.seasonal.
+● Clone the repository in your local folder and install dependencies numpy, pandas, matplotlib, statsmodels & pmdarima.
 
 ● Run the cell for import of all the required modules first.
 
